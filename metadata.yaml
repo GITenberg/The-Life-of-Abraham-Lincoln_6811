@@ -1,0 +1,24 @@
+_repo: The-Life-of-Abraham-Lincoln_6811
+creator:
+  author:
+    agent_name: Ketcham, Henry
+    gutenberg_agent_id: '2203'
+    url: http://www.gutenberg.org/2009/agents/2203
+description: ''
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6811'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lincoln, Abraham, 1809-1865'
+- !lcsh 'United States -- Politics and government -- 1861-1865'
+- !lcsh 'Lincoln, Abraham, 1809-1865 -- Family'
+- !lcsh 'United States -- History -- Civil War, 1861-1865'
+- !lcsh 'Presidents -- United States -- Biography'
+- !lcc 'E456'
+title: The Life of Abraham Lincoln
+url: http://www.gutenberg.org/ebooks/6811
